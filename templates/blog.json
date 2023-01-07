@@ -1,0 +1,14 @@
+{
+  "sections": {
+    "template": {
+      "type": "template-blog",
+      "settings": {
+        "blog_read_more": "Read More",
+        "number_of_blogpost": 1
+      }
+    }
+  },
+  "order": [
+    "template"
+  ]
+}

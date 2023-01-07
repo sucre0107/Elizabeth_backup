@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6bad40f-ae8f-4904-8197-962a67557e2b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Liquid File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IPAGl73QPD2vnx2OEAh6i3YfMr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/shopify themes/Elizabeth/sections/header001.liquid&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.json.schema&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\shopify themes\Elizabeth\sections" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6bad40f-ae8f-4904-8197-962a67557e2b" name="Changes" comment="" />
+      <created>1670072753193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670072753193</updated>
+      <workItem from="1670072755436" duration="5457000" />
+      <workItem from="1670082449164" duration="349000" />
+      <workItem from="1670082858461" duration="297000" />
+      <workItem from="1670083403116" duration="35000" />
+      <workItem from="1670140468976" duration="11000" />
+      <workItem from="1670140499227" duration="306000" />
+      <workItem from="1670158593973" duration="186000" />
+      <workItem from="1670221878743" duration="13678000" />
+      <workItem from="1670306907266" duration="12199000" />
+      <workItem from="1670393180563" duration="4170000" />
+      <workItem from="1670745705884" duration="10685000" />
+      <workItem from="1670845837260" duration="28000" />
+      <workItem from="1670943957592" duration="3000" />
+      <workItem from="1671072123557" duration="5333000" />
+      <workItem from="1671096820021" duration="10302000" />
+      <workItem from="1671158562001" duration="72000" />
+      <workItem from="1671158951854" duration="10419000" />
+      <workItem from="1671237732706" duration="7239000" />
+      <workItem from="1671250815021" duration="8685000" />
+      <workItem from="1671327619757" duration="11953000" />
+      <workItem from="1671427135665" duration="18686000" />
+      <workItem from="1672388078140" duration="53000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,53 @@
+<div class="flex flex-col pt-20 items-center">
+  <!--主标题-->
+  <div class="text-3xl font-bold">
+    {{ section.settings.title }}
+  </div>
+  <!--副标题-->
+  <div class="pt-2 font-medium">
+    {{ section.settings.subtext-title }}
+  </div>
+  <!--按钮-->
+  <div class="mt-2 bg-green-500 py-2 px-6 rounded-lg text-white 
+            hover:bg-slate-200 hover:text-black marker:duration duration-1000">
+    {% if section.settings.button_url == blank %}
+      {% assign shop_url = shop.secure_url %}
+    {%- else -%}
+      {% assign shop_url = section.settings.button_url %}
+    {% endif %}
+    <a href="{{ shop_url }}" class="">{{ section.settings.button_label }}</a>
+  </div>
+</div>
+
+
+
+{% schema %}
+  {
+    "name": "404 模板",
+    "tag": "section",
+    "class": "py-7",
+    "settings": [
+      {
+        "type": "text",
+        "id": "title",
+        "default": "404",
+        "label": "404 主标题文字"
+      }, {
+        "type": "text",
+        "id": "subtext-title",
+        "default": "The page that you are looking for is not found!",
+        "label": "404 副标题文字"
+      }, {
+        "type": "text",
+        "id": "button_label",
+        "default": "return to homepage",
+        "label": "按钮名称"
+      }, {
+        "type": "url",
+        "id": "button_url",
+        "label": "点击按钮的跳转的地址"
+      }
+    ]
+
+  }
+{% endschema %}
