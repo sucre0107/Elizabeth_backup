@@ -1,8 +1,11 @@
 {
-  "sections":{
-    "template":{
-      "type":"template-customer-activate-account"
+  "sections": {
+    "template": {
+      "type": "template-customer-activate-account",
+      "settings": {}
     }
   },
-  "order":["template"]
+  "order": [
+    "template"
+  ]
 }
